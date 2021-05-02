@@ -120,12 +120,23 @@ if you want to do a strikethrough, encapsulate with double tildes.
 
 we all know that ~~james cameron~~ is the best director
 
-### tsak lists
+### task lists
 you can make check lists using markup. this would be extremely useful
 - [x] this item is done
 - [ ] this item is not
 - [ ] neither is this item
 - [x] but this item is done
+
+### definition lists
+
+To make a definition list, do the term on one line, and the next line, put a colon.
+
+Food
+: It's what you eat
+Clothes
+: They're what you wear
+Places
+: They're where you go.
 
 ### heading ids
 
