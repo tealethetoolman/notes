@@ -1,7 +1,10 @@
 # Markdown Language
 
 This is me learning how to document stuff in markdown language. I started [here](https://www.markdownguide.org/getting-started/). This is pretty cool as I write it in **notead++**, I realize maybe the world is a *beautiful* place.
-
+bold
+: `**bold text**`
+italic
+: `*italic text*`
 ## block quotes
 
 > this is a blockquote. maybe i can use this for code?
