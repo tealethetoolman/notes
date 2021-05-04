@@ -3,7 +3,7 @@
 give some information about ansible
 - what is ansible?
 ![redhat literature on ansible](ansible-fig1.PNG)
--- A solution to solve automation of systems at scale. Ansible is a simple and powerful Automation engine. With the power to leverage groupings, you can run repeatable, autidable, and easy to source tasks at scale. The "at scale" part is important. Asnible is a command line tool and you need something like Jenkins or some other web wrapper to make your jobs click-n-go. Or you can spend 5 figures or more a year on Tower. 
+-- A solution to solve automation of systems at scale. Ansible is a simple and powerful Automation engine. With the power to leverage groupings, you can run repeatable, autidable, and easy to source tasks at scale. The "at scale" part is important. Ansible is a command line tool and you need something like Jenkins or some other web wrapper to make your jobs click-n-go. Or you can spend 5 figures or more a year on Tower. 
 - Deisgn Principles
 -- Have a dead-simple setup process with a minimal learning curve.
 -- Manage machines very quickly and in parallel.
@@ -18,7 +18,7 @@ give some information about ansible
 -- 20210518 ETA release Ansible 4.0.0
 -- 20210608 Ansible Contributor Summit
 - Latest version
--- Ansible 3.3.0 [more info](https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package "Ansible 3 and how we got here"
+-- Ansible 3.3.0 [more info](https://www.ansible.com/blog/announcing-the-community-ansible-3.0.0-package "Ansible 3 and how we got here")
 - background information
 -- python
 -- RedHat owned
